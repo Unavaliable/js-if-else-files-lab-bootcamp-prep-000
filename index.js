@@ -1,8 +1,8 @@
-Joevar name = "Joe"
-var height = "70"
+Joevar; name = "Joe";
+var height = "70";
 
 
 // Don't worry about this
 module.exports = { name, height
-}
+};
 
